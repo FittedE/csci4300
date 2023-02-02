@@ -1,0 +1,160 @@
+body {
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+h3 {
+    text-align: center;
+}
+.top {
+margin: auto;
+padding: 10%;
+border-width: 5px; 
+text-align: center;
+}
+.top {
+    font-family: top, 'Roboto', sans-serif;
+    src: url();
+    color: #d40c0c;
+}
+.middle {
+margin: auto;
+padding: 0%;
+border-width: 5px;
+text-align: center;
+}
+.middle {
+    font-family: middle, 'Poppins', sans-serif;
+    src: url();
+    color: #797878;
+    font-weight: bolder;
+    font-size: large;
+}
+.bottom {
+margin: auto;
+padding: 10%;
+border-width: 5px; 
+text-align: center;
+background-color: #d40c0c;
+
+}
+.bottom {
+font-family: bottom, 'Poppins', sans-serif;
+src: url();
+color: #ffffff;
+font-weight: bolder;
+font-size: large;
+}
+.footnote {
+    position: relative;
+    bottom: 0px;
+    margin: auto;
+    bottom: auto;
+    width: max;
+    height: max;
+    background-color: rgb(0, 0, 0);
+    block-size: auto;
+    writing-mode: horizontal-tb; 
+    text-align: center;
+}
+.img0 {
+    position: absolute;
+    border: 3px solid #3e3e3e;
+    left: 0;
+    top: -300px;
+}
+.img6 {
+    width: 150px;
+    position: absolute;
+    left: 1;
+    top: 0;
+}
+.img1 {
+    display: block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img2 {
+float: left;
+position: relative;
+left: 15px;
+}
+.img4 {
+   width: 45%;
+    float: left;
+    margin-left: 15px;
+    position: relative;
+    right: 30px;
+}
+.img5 {
+width: auto;
+float: left;
+position: relative;
+right: 30px;
+}
+h2 {
+color: #d40c0c;
+}
+hr {
+    border-top: 3px double #000000;
+}
+ul {
+    list-style-type: none;
+   }
+.lang {
+column-count: 2;
+width:50%;
+margin: auto;
+text-align: center;
+}
+.lead {
+column-count: 2;  
+width:50%;
+margin: auto;
+text-align: center;
+
+}
+.skills {
+column-count: 3;
+width:50%;
+margin: auto;
+text-align: center;
+}
+.button {
+background-color: #ffffff;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+justify-content: center;
+align-items: center;
+}
+a:link { text-decoration: none; 
+    color: #0d0857;
+    }
+a:visited { text-decoration: none;
+    color: rgb(0, 0, 0);
+ }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.contact {
+    color: #4e4e4e;
+    text-align: center;
+}
+.card {
+color: #444444;
+text-shadow: 1px 1px 2px #d40c0c, 0 0 25px #d40c0c, 0 0 5px #d40c0c;
+  text-align: center;
+}
